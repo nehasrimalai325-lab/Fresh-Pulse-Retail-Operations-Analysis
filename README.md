@@ -16,7 +16,7 @@ Amazon Fresh needed a structured way to manage growing volumes of customer, prod
 - Top Products & Categories — ranked by total sales to identify top revenue drivers
 - Inventory Health — stock levels by product/category with Low Stock alerts
 - Supplier & Catalog Scale — Active Suppliers and Total Products tracked
-- 
+  
 <img width="625" height="343" alt="image" src="https://github.com/user-attachments/assets/beaab12a-243c-4c4f-9be2-35f64146b2c6" />
 <img width="628" height="351" alt="image" src="https://github.com/user-attachments/assets/d7b60bee-72e3-4a25-8400-e58426c42a97" />
 <img width="628" height="352" alt="image" src="https://github.com/user-attachments/assets/d7c7cdb2-caad-4ef1-a7c8-9cb297aab5e7" />
